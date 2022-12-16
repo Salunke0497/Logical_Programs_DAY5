@@ -13,7 +13,8 @@ namespace BasicPograms
             //vowel.VowelChar();
             //swap.SwapNumber();
             //LargestNumber.max();
-            factor.main();
+            //factor.main();
+            LeapYear.LEAP();
             Console.ReadLine();
         }
     }
