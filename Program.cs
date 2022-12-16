@@ -12,7 +12,8 @@ namespace BasicPograms
         {
             //vowel.VowelChar();
             //swap.SwapNumber();
-            LargestNumber.max();
+            //LargestNumber.max();
+            factor.main();
             Console.ReadLine();
         }
     }
