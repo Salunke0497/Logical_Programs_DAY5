@@ -10,9 +10,9 @@ namespace BasicPograms
     {
         static void Main(string[] args)
         {
-            vowel.VowelChar();
+            //vowel.VowelChar();
             //swap.SwapNumber();
-            //LargestNumber.max();
+            LargestNumber.max();
             Console.ReadLine();
         }
     }
