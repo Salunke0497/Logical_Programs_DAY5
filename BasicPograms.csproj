@@ -46,9 +46,11 @@
     <Compile Include="factor.cs" />
     <Compile Include="LargestNumber.cs" />
     <Compile Include="LeapYear.cs" />
+    <Compile Include="power.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="swap.cs" />
+    <Compile Include="toss.cs" />
     <Compile Include="Vowel.cs" />
   </ItemGroup>
   <ItemGroup>

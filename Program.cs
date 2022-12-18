@@ -14,7 +14,9 @@ namespace BasicPograms
             //swap.SwapNumber();
             //LargestNumber.max();
             //factor.main();
-            LeapYear.LEAP();
+            //LeapYear.LEAP();
+            //toss.main();
+            power.pow();
             Console.ReadLine();
         }
     }
