@@ -10,10 +10,6 @@ namespace BasicPograms
     {
         static void Main(string[] args)
         {
-            //vowel.VowelChar();
-            //swap.SwapNumber();
-            //LargestNumber.max();
-            //factor.main();
             LeapYear.LEAP();
             Console.ReadLine();
         }
